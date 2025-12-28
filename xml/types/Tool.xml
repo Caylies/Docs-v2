@@ -51,22 +51,22 @@
   <Events>
     <Name>Equipped</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this tool has been equipped</Description>
   </Events>
   <Events>
     <Name>Unequipped</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this tool has been unequipped</Description>
   </Events>
   <Events>
     <Name>Activated</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this tool has been activated (via mouse press or `Tool:Activate`)</Description>
   </Events>
   <Events>
     <Name>Deactivated</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this tool has been deactivated (via mouse release or `Tool:Deactivate`)</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

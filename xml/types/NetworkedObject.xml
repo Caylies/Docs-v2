@@ -116,7 +116,10 @@
   </Methods>
   <Events>
     <Name>PropertyChanged</Name>
-    <Arguments></Arguments>
+    <Arguments>
+      <Name>propertyName</Name>
+      <Type>string</Type>
+    </Arguments>
     <Description>Missing Documentation</Description>
   </Events>
   <Events>

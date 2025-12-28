@@ -18,8 +18,11 @@
   </Methods>
   <Events>
     <Name>Invoked</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>...</Name>
+      <Type>any</Type>
+    </Arguments>
+    <Description>Fires when this bindable has been invoked</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

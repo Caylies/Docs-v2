@@ -65,8 +65,11 @@
   </Events>
   <Events>
     <Name>Rendered</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>delta</Name>
+      <Type>number</Type>
+    </Arguments>
+    <Description>Fires when the game has been rendered</Description>
   </Events>
   <IsStatic>true</IsStatic>
   <IsAbstract>false</IsAbstract>

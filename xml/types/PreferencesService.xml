@@ -20,7 +20,14 @@
   </Properties>
   <Events>
     <Name>SettingChanged</Name>
-    <Arguments></Arguments>
+    <Arguments>
+      <Name>settingName</Name>
+      <Type>string</Type>
+    </Arguments>
+    <Arguments>
+      <Name>setTo</Name>
+      <Type>any</Type>
+    </Arguments>
     <Description>Missing Documentation</Description>
   </Events>
   <IsStatic>true</IsStatic>

@@ -191,37 +191,50 @@
   <Events>
     <Name>GameFocused</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when the game has been focused</Description>
   </Events>
   <Events>
     <Name>GameUnfocused</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when the game has been unfocused</Description>
   </Events>
   <Events>
     <Name>GamepadConnected</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when gamepad is connected</Description>
   </Events>
   <Events>
     <Name>GamepadDisconnected</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when gamepad has been disconnected</Description>
   </Events>
   <Events>
     <Name>KeyDown</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>keycode</Name>
+      <Type>KeyCodeEnum</Type>
+    </Arguments>
+    <Description>Fires when key has been pressed</Description>
   </Events>
   <Events>
     <Name>KeyUp</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>keycode</Name>
+      <Type>KeyCodeEnum</Type>
+    </Arguments>
+    <Description>Fires when key has been released</Description>
   </Events>
   <Events>
     <Name>AxisValueChanged</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>keycode</Name>
+      <Type>KeyCodeEnum</Type>
+    </Arguments>
+    <Arguments>
+      <Name>value</Name>
+      <Type>float</Type>
+    </Arguments>
+    <Description>Fires when analog input has been changed</Description>
   </Events>
   <IsStatic>true</IsStatic>
   <IsAbstract>false</IsAbstract>

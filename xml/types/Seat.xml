@@ -12,12 +12,18 @@
   </Properties>
   <Events>
     <Name>Sat</Name>
-    <Arguments></Arguments>
+    <Arguments>
+      <Name>occupant</Name>
+      <Type>NPC</Type>
+    </Arguments>
     <Description>Missing Documentation</Description>
   </Events>
   <Events>
     <Name>Vacated</Name>
-    <Arguments></Arguments>
+    <Arguments>
+      <Name>occupant</Name>
+      <Type>NPC</Type>
+    </Arguments>
     <Description>Missing Documentation</Description>
   </Events>
   <IsStatic>false</IsStatic>

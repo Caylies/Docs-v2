@@ -251,12 +251,12 @@
   <Events>
     <Name>RagdollStarted</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when ragdoll has been started</Description>
   </Events>
   <Events>
     <Name>RagdollStopped</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when ragdoll has been stopped</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

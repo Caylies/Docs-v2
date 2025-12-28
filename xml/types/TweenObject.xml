@@ -339,12 +339,12 @@
   <Events>
     <Name>Finished</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this tween has finished</Description>
   </Events>
   <Events>
     <Name>Canceled</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this tween has been canceled</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

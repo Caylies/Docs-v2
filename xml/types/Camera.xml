@@ -325,12 +325,12 @@
   <Events>
     <Name>FirstPersonEntered</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when camera has entered first person</Description>
   </Events>
   <Events>
     <Name>FirstPersonExited</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when camera has exited first person</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

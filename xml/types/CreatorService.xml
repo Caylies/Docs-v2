@@ -37,12 +37,12 @@
   <Events>
     <Name>LocalTestStarted</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when local testing starts</Description>
   </Events>
   <Events>
     <Name>LocalTestStopped</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when local testing ends</Description>
   </Events>
   <IsStatic>true</IsStatic>
   <IsAbstract>false</IsAbstract>

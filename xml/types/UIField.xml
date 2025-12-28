@@ -93,32 +93,32 @@
   <Events>
     <Name>MouseEnter</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when user&apos;s cursor hovers on this UI</Description>
   </Events>
   <Events>
     <Name>MouseExit</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when user&apos;s cursor leaves this UI</Description>
   </Events>
   <Events>
     <Name>MouseDown</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when user hold down mouse on this UI</Description>
   </Events>
   <Events>
     <Name>MouseUp</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when user release mouse on this UI</Description>
   </Events>
   <Events>
     <Name>TransformChanged</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this UI transform has been changed</Description>
   </Events>
   <Events>
     <Name>VisibilityChanged</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this UI visibility has been changed</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

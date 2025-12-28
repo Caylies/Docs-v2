@@ -5,7 +5,7 @@
   <Events>
     <Name>Changed</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when value has been changed</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>true</IsAbstract>

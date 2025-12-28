@@ -8,7 +8,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>Determine if achievement sound effect should play when user receives an achievement</Description>
   </Properties>
   <Properties>
     <Name>NotifyAchievements</Name>
@@ -16,7 +16,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>Determine if achievement toast should show when user receives an achievement</Description>
   </Properties>
   <Methods>
     <Name>Award</Name>
@@ -42,7 +42,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Award achievement to the user</Description>
   </Methods>
   <Methods>
     <Name>AwardAsync</Name>
@@ -62,7 +62,7 @@
     <IsAsync>true</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Award achievement to the user asynchronously.</Description>
   </Methods>
   <Methods>
     <Name>HasAchievement</Name>
@@ -88,7 +88,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Check if user of ID has the achievement.</Description>
   </Methods>
   <Methods>
     <Name>HasAchievementAsync</Name>
@@ -108,15 +108,18 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Check if player of ID has the achievement, asynchronously.</Description>
   </Methods>
   <Events>
     <Name>GotAchievement</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>achievementID</Name>
+      <Type>number</Type>
+    </Arguments>
+    <Description>Fires when the local player got an achievement</Description>
   </Events>
   <IsStatic>true</IsStatic>
   <IsAbstract>false</IsAbstract>
   <IsInstantiatable>false</IsInstantiatable>
-  <Description>Missing Documentation</Description>
+  <Description>Service for managing achievements</Description>
 </ClassDef>

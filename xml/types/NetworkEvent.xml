@@ -66,13 +66,27 @@
   </Methods>
   <Events>
     <Name>InvokedServer</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>sender</Name>
+      <Type>Player</Type>
+    </Arguments>
+    <Arguments>
+      <Name>msg</Name>
+      <Type>NetMessage</Type>
+    </Arguments>
+    <Description>Fires when server receives message from client</Description>
   </Events>
   <Events>
     <Name>InvokedClient</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>sender</Name>
+      <Type>nil</Type>
+    </Arguments>
+    <Arguments>
+      <Name>msg</Name>
+      <Type>NetMessage</Type>
+    </Arguments>
+    <Description>Fires when client receives message from server</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

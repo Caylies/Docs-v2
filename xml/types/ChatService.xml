@@ -38,13 +38,23 @@
   </Methods>
   <Events>
     <Name>NewChatMessage</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>sender</Name>
+      <Type>Player</Type>
+    </Arguments>
+    <Arguments>
+      <Name>message</Name>
+      <Type>string</Type>
+    </Arguments>
+    <Description>Fires when new chat message has been received from player</Description>
   </Events>
   <Events>
     <Name>MessageReceived</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>message</Name>
+      <Type>string</Type>
+    </Arguments>
+    <Description>Fires when new message has been received from either `BroadcastMessage` or `UnicastMessage`</Description>
   </Events>
   <IsStatic>true</IsStatic>
   <IsAbstract>false</IsAbstract>

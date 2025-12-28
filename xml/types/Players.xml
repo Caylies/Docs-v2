@@ -64,13 +64,19 @@
   </Methods>
   <Events>
     <Name>PlayerAdded</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>player</Name>
+      <Type>Player</Type>
+    </Arguments>
+    <Description>Fires when player has connected</Description>
   </Events>
   <Events>
     <Name>PlayerRemoved</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>player</Name>
+      <Type>Player</Type>
+    </Arguments>
+    <Description>Fires when player has disconnected</Description>
   </Events>
   <IsStatic>true</IsStatic>
   <IsAbstract>false</IsAbstract>

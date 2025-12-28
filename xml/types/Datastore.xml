@@ -61,7 +61,7 @@
   <Events>
     <Name>Loaded</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this datastore has been loaded</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

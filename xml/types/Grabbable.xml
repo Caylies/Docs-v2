@@ -44,13 +44,16 @@
   </Properties>
   <Events>
     <Name>Grabbed</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>grabber</Name>
+      <Type>Player</Type>
+    </Arguments>
+    <Description>Fires when this object has been grabbed</Description>
   </Events>
   <Events>
     <Name>Released</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this object has been released</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

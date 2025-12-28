@@ -44,8 +44,11 @@
   </Properties>
   <Events>
     <Name>Hitted</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>hit</Name>
+      <Type>Instance</Type>
+    </Arguments>
+    <Description>Fires when this explosion affects a hit</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

@@ -29,12 +29,12 @@
   <Events>
     <Name>Pressed</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this button has been pressed</Description>
   </Events>
   <Events>
     <Name>Released</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when this button has been released</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>

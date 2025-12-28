@@ -50,28 +50,37 @@
   </Methods>
   <Events>
     <Name>Touched</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>hit</Name>
+      <Type>Physical</Type>
+    </Arguments>
+    <Description>Fires when this object has collide with other object</Description>
   </Events>
   <Events>
     <Name>TouchEnded</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>hit</Name>
+      <Type>Physical</Type>
+    </Arguments>
+    <Description>Fires when this object has stopped colliding with other object</Description>
   </Events>
   <Events>
     <Name>MouseEnter</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when cursor is hovered on this object. Only fired locally</Description>
   </Events>
   <Events>
     <Name>MouseExit</Name>
     <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Description>Fires when cursor leaves this object. Only fired locally</Description>
   </Events>
   <Events>
     <Name>Clicked</Name>
-    <Arguments></Arguments>
-    <Description>Missing Documentation</Description>
+    <Arguments>
+      <Name>player</Name>
+      <Type>Player</Type>
+    </Arguments>
+    <Description>Fires when this object has been clicked by a player</Description>
   </Events>
   <IsStatic>false</IsStatic>
   <IsAbstract>true</IsAbstract>

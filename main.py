@@ -125,10 +125,10 @@ def define_env(env):
     def staticclass(className):
         return """<div data-search-exclude markdown>
 !!! tip "Static Class"
-    This object is a static class. It can be accessed by using its name as a keyword like this: `%s`.
+    This object is a static class. It can be accessed by using its name as a keyword.
 
     Additionally, it cannot be created in the creator menu or with `Instance.New()`.
-</div>""" % (className)
+</div>"""
 
     @env.macro
     def serverexclusive():
