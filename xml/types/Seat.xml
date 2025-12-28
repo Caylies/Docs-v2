@@ -3,6 +3,14 @@
   <Name>Seat</Name>
   <BaseType>Part</BaseType>
   <Properties>
+    <Name>Occupant</Name>
+    <Type>NPC</Type>
+    <IsAccessibleByScripts>true</IsAccessibleByScripts>
+    <IsReadOnly>false</IsReadOnly>
+    <IsObsolete>false</IsObsolete>
+    <Description>Missing Documentation</Description>
+  </Properties>
+  <Properties>
     <Name>CanNPCSit</Name>
     <Type>boolean</Type>
     <IsAccessibleByScripts>true</IsAccessibleByScripts>

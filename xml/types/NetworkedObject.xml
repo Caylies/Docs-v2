@@ -93,14 +93,6 @@
     <Description>Missing Documentation</Description>
   </Methods>
   <Methods>
-    <Name>ForceDelete</Name>
-    <ReturnType>nil</ReturnType>
-    <IsAsync>false</IsAsync>
-    <IsObsolete>false</IsObsolete>
-    <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
-  </Methods>
-  <Methods>
     <Name>Delete</Name>
     <ReturnType>nil</ReturnType>
     <Parameters>
