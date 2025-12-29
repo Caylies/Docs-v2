@@ -82,14 +82,6 @@
     <IsObsolete>false</IsObsolete>
     <Description>Missing Documentation</Description>
   </Properties>
-  <Properties>
-    <Name>Font</Name>
-    <Type>BuiltInTextFontPresetEnum</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
   <Methods>
     <Name>Focus</Name>
     <ReturnType>nil</ReturnType>

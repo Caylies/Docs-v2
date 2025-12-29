@@ -51,30 +51,6 @@
     <Description>Missing Documentation</Description>
   </Properties>
   <Properties>
-    <Name>FaceID</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>ShirtID</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>PantsID</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
     <Name>FaceImage</Name>
     <Type>ImageAsset</Type>
     <IsAccessibleByScripts>true</IsAccessibleByScripts>

@@ -131,14 +131,6 @@
     <Description>Missing Documentation</Description>
   </Properties>
   <Properties>
-    <Name>IsInputFocused</Name>
-    <Type>boolean</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>true</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
     <Name>IsLocal</Name>
     <Type>boolean</Type>
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
@@ -176,14 +168,6 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>true</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>Backpack</Name>
-    <Type>Inventory</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>true</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
     <Description>Missing Documentation</Description>
   </Properties>
   <Methods>

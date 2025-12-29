@@ -11,14 +11,6 @@
     <Description>Missing Documentation</Description>
   </Properties>
   <Properties>
-    <Name>AssetID</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
     <Name>IncludeOffset</Name>
     <Type>boolean</Type>
     <IsAccessibleByScripts>true</IsAccessibleByScripts>

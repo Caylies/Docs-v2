@@ -84,6 +84,7 @@ for (const c of data.Classes) {
 
     // Add properties
     for (const prop of c.Properties) {
+        if (prop.IsObsolete) continue
         obj.Properties.push({
             ...prop,
             Description: existingDescriptions.Properties[prop.Name] || "Missing Documentation"

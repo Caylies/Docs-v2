@@ -35,27 +35,11 @@
     <Description>Missing Documentation</Description>
   </Properties>
   <Properties>
-    <Name>PlayersConnected</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>true</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
     <Name>InstanceCount</Name>
     <Type>number</Type>
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>true</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>LocalInstanceCount</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>true</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
     <Description>Missing Documentation</Description>
   </Properties>
   <Events>

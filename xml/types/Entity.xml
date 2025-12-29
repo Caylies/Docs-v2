@@ -183,5 +183,5 @@
   <IsStatic>false</IsStatic>
   <IsAbstract>true</IsAbstract>
   <IsInstantiatable>false</IsInstantiatable>
-  <Description>Missing Documentation</Description>
+  <Description>Entity represents a physics object that&apos;s related to building blocks (inherited by Part and Mesh)</Description>
 </ClassDef>

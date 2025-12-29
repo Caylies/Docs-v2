@@ -11,14 +11,6 @@
     <Description>Missing Documentation</Description>
   </Properties>
   <Properties>
-    <Name>SoundID</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
     <Name>Volume</Name>
     <Type>number</Type>
     <IsAccessibleByScripts>true</IsAccessibleByScripts>

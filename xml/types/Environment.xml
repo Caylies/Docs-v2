@@ -34,46 +34,6 @@
     <IsObsolete>false</IsObsolete>
     <Description>Missing Documentation</Description>
   </Properties>
-  <Properties>
-    <Name>Skybox</Name>
-    <Type>SkyboxEnum</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>FogEnabled</Name>
-    <Type>boolean</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>FogColor</Name>
-    <Type>Color</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>FogStartDistance</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>FogEndDistance</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
   <Methods>
     <Name>Raycast</Name>
     <ReturnType>RayResult</ReturnType>

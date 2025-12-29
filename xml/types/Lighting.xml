@@ -58,30 +58,6 @@
     <IsObsolete>false</IsObsolete>
     <Description>Missing Documentation</Description>
   </Properties>
-  <Properties>
-    <Name>SunBrightness</Name>
-    <Type>number</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>SunColor</Name>
-    <Type>Color</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>Shadows</Name>
-    <Type>boolean</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
   <IsStatic>true</IsStatic>
   <IsAbstract>false</IsAbstract>
   <IsInstantiatable>false</IsInstantiatable>

@@ -11,22 +11,6 @@
     <Description>Missing Documentation</Description>
   </Properties>
   <Properties>
-    <Name>ImageID</Name>
-    <Type>string</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
-    <Name>ImageType</Name>
-    <Type>ImageTypeEnum</Type>
-    <IsAccessibleByScripts>true</IsAccessibleByScripts>
-    <IsReadOnly>false</IsReadOnly>
-    <IsObsolete>true</IsObsolete>
-    <Description>Missing Documentation</Description>
-  </Properties>
-  <Properties>
     <Name>TextureScale</Name>
     <Type>Vector2</Type>
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
