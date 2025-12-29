@@ -8,7 +8,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>The X component of the quaternion.</Description>
   </Properties>
   <Properties>
     <Name>Y</Name>
@@ -16,7 +16,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>The Y component of the quaternion.</Description>
   </Properties>
   <Properties>
     <Name>Z</Name>
@@ -24,7 +24,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>The Z component of the quaternion.</Description>
   </Properties>
   <Properties>
     <Name>W</Name>
@@ -32,7 +32,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>The W component of the quaternion.</Description>
   </Properties>
   <Properties>
     <Name>Identity</Name>
@@ -40,7 +40,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>true</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>The identity rotation.</Description>
   </Properties>
   <Methods>
     <Name>New</Name>
@@ -48,7 +48,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a new Quaternion object.</Description>
   </Methods>
   <Methods>
     <Name>New</Name>
@@ -80,7 +80,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a new Quaternion object with the specified components.</Description>
   </Methods>
   <Methods>
     <Name>Angle</Name>
@@ -100,7 +100,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Calculates the angle between two quaternions.</Description>
   </Methods>
   <Methods>
     <Name>AngleAxis</Name>
@@ -120,7 +120,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a rotation which rotates angle degrees around axis.</Description>
   </Methods>
   <Methods>
     <Name>Dot</Name>
@@ -140,7 +140,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Calculates the dot product of two quaternions.</Description>
   </Methods>
   <Methods>
     <Name>Euler</Name>
@@ -166,7 +166,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a quaternion from Euler angles specified by x, y, and z.</Description>
   </Methods>
   <Methods>
     <Name>Euler</Name>
@@ -180,7 +180,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a quaternion from Euler angles specified by a Vector3.</Description>
   </Methods>
   <Methods>
     <Name>ToEuler</Name>
@@ -194,7 +194,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Converts a quaternion to Euler angles represented as a Vector3.</Description>
   </Methods>
   <Methods>
     <Name>FromToRotation</Name>
@@ -214,7 +214,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a rotation which rotates angle degrees around axis.</Description>
   </Methods>
   <Methods>
     <Name>Inverse</Name>
@@ -228,7 +228,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Calculates the inverse of a quaternion.</Description>
   </Methods>
   <Methods>
     <Name>Lerp</Name>
@@ -254,7 +254,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Linearly interpolates between two quaternions.</Description>
   </Methods>
   <Methods>
     <Name>LerpUnclamped</Name>
@@ -280,7 +280,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Linearly interpolates between two quaternions without clamping the interpolant.</Description>
   </Methods>
   <Methods>
     <Name>LookRotation</Name>
@@ -294,7 +294,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a rotation with the specified forward direction.</Description>
   </Methods>
   <Methods>
     <Name>LookRotation</Name>
@@ -314,7 +314,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a rotation with the specified forward and upwards directions.</Description>
   </Methods>
   <Methods>
     <Name>Normalize</Name>
@@ -328,7 +328,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Normalizes the given quaternion.</Description>
   </Methods>
   <Methods>
     <Name>RotateTowards</Name>
@@ -354,7 +354,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Rotates a rotation from towards to by maxDegreesDelta.</Description>
   </Methods>
   <Methods>
     <Name>Slerp</Name>
@@ -380,7 +380,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Spherically interpolates between two quaternions.</Description>
   </Methods>
   <Methods>
     <Name>SlerpUnclamped</Name>
@@ -406,10 +406,10 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Spherically interpolates between two quaternions without clamping the interpolant.</Description>
   </Methods>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>
   <IsInstantiatable>false</IsInstantiatable>
-  <Description>Missing Documentation</Description>
+  <Description>Represents a quaternion used for rotations.</Description>
 </ClassDef>
