@@ -8,7 +8,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>Determines the minimum value of the range.</Description>
   </Properties>
   <Properties>
     <Name>Max</Name>
@@ -16,7 +16,7 @@
     <IsAccessibleByScripts>true</IsAccessibleByScripts>
     <IsReadOnly>false</IsReadOnly>
     <IsObsolete>false</IsObsolete>
-    <Description>Missing Documentation</Description>
+    <Description>Determines the maximum value of the range.</Description>
   </Properties>
   <Methods>
     <Name>New</Name>
@@ -36,7 +36,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a new NumberRange object with the specified minimum and maximum values.</Description>
   </Methods>
   <Methods>
     <Name>Lerp</Name>
@@ -50,10 +50,10 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Linearly interpolates between the minimum and maximum values of the range based on the parameter t, which is typically between 0 and 1.</Description>
   </Methods>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>
   <IsInstantiatable>false</IsInstantiatable>
-  <Description>Missing Documentation</Description>
+  <Description>NumberRange is a data type that represents a range between two numbers, defined by a minimum and maximum value.</Description>
 </ClassDef>

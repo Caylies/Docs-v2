@@ -20,7 +20,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds a string value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>AddInt</Name>
@@ -40,7 +40,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds an integer value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>AddBool</Name>
@@ -60,7 +60,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds a boolean value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>AddNumber</Name>
@@ -80,7 +80,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds a number value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>AddVector2</Name>
@@ -100,7 +100,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds a Vector2 value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>AddVector3</Name>
@@ -120,7 +120,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds a Vector3 value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>AddColor</Name>
@@ -140,7 +140,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds a Color value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>AddInstance</Name>
@@ -160,7 +160,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Adds an Instance value to the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetString</Name>
@@ -174,7 +174,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets a string value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetInt</Name>
@@ -188,7 +188,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets an integer value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetNumber</Name>
@@ -202,7 +202,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets a number value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetBool</Name>
@@ -216,7 +216,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets a boolean value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetVector2</Name>
@@ -230,7 +230,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets a Vector2 value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetVector3</Name>
@@ -244,7 +244,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets a Vector3 value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetColor</Name>
@@ -258,7 +258,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets a Color value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>GetInstance</Name>
@@ -272,7 +272,7 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>false</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Gets an Instance value from the message with the specified key.</Description>
   </Methods>
   <Methods>
     <Name>New</Name>
@@ -280,10 +280,10 @@
     <IsAsync>false</IsAsync>
     <IsObsolete>false</IsObsolete>
     <IsStatic>true</IsStatic>
-    <Description>Missing Documentation</Description>
+    <Description>Creates a new NetMessage instance.</Description>
   </Methods>
   <IsStatic>false</IsStatic>
   <IsAbstract>false</IsAbstract>
   <IsInstantiatable>false</IsInstantiatable>
-  <Description>Missing Documentation</Description>
+  <Description>Represents a network message used for communication between clients and servers.</Description>
 </ClassDef>
