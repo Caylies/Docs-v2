@@ -8,6 +8,20 @@ Properties:
     IsObsolete: false
     IsStatic: false
     Description: Target font to use
+  - Name: FontWeight
+    Type: FontWeightEnum
+    IsAccessibleByScripts: false
+    IsReadOnly: false
+    IsObsolete: false
+    IsStatic: false
+    Description: Missing Documentation
+  - Name: FontStyle
+    Type: FontStyleEnum
+    IsAccessibleByScripts: false
+    IsReadOnly: false
+    IsObsolete: false
+    IsStatic: false
+    Description: Missing Documentation
 Methods: []
 Events: []
 IsStatic: false

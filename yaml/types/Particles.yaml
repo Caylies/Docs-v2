@@ -85,6 +85,13 @@ Properties:
     IsObsolete: false
     IsStatic: false
     Description: Missing Documentation
+  - Name: BlendMode
+    Type: BlendModeEnum
+    IsAccessibleByScripts: true
+    IsReadOnly: false
+    IsObsolete: false
+    IsStatic: false
+    Description: Missing Documentation
   - Name: Shaded
     Type: boolean
     IsAccessibleByScripts: true

@@ -1,0 +1,10 @@
+Name: MissingInstance
+BaseType: Instance
+Properties: []
+Methods: []
+Events: []
+IsStatic: false
+IsAbstract: false
+IsInstantiatable: false
+StaticAlias: null
+Description: Missing Documentation

@@ -23,6 +23,17 @@ Properties:
     IsStatic: false
     Description: Missing Documentation
 Methods:
+  - Name: RequestPermissions
+    ReturnType: nil
+    Parameters:
+      - Name: perms
+        Type: "{ AddonPermissionEnum }"
+        IsOptional: false
+        DefaultValue: ""
+    IsAsync: true
+    IsObsolete: false
+    IsStatic: false
+    Description: Missing Documentation
   - Name: CreateToolItem
     ReturnType: AddonToolItem
     Parameters:

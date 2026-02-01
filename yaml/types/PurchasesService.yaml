@@ -2,8 +2,8 @@ Name: PurchasesService
 BaseType: Instance
 Properties: []
 Methods:
-  - Name: Prompt
-    ReturnType: nil
+  - Name: PromptAsync
+    ReturnType: boolean
     Parameters:
       - Name: player
         Type: Player
@@ -13,10 +13,10 @@ Methods:
         Type: number
         IsOptional: false
         DefaultValue: ""
-    IsAsync: false
+    IsAsync: true
     IsObsolete: false
     IsStatic: false
-    Description: Prompts the specified player to purchase the asset with the given asset ID.
+    Description: Missing Documentation
   - Name: OwnsItemAsync
     ReturnType: boolean
     Parameters:

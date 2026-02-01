@@ -29,6 +29,13 @@ Properties:
     IsObsolete: false
     IsStatic: false
     Description: The uptime of this game in seconds.
+  - Name: ServerTime
+    Type: number
+    IsAccessibleByScripts: true
+    IsReadOnly: true
+    IsObsolete: false
+    IsStatic: false
+    Description: Missing Documentation
   - Name: InstanceCount
     Type: number
     IsAccessibleByScripts: true
